@@ -13,7 +13,14 @@
   </ul>
   </p>
 </div>
+<div>
+  <h2>Demonstration: </h2>
+  ⚠️When running the tests, some pauses were used on the thread for better visualization.
+  https://youtu.be/JVBYPQK0Ka0
+ 
+  ![image](swaglabs.png)
 
+</div>  
 
 
 
